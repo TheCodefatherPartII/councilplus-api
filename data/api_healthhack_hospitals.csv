@@ -1,222 +1,222 @@
-id,name,network,address1,address2,remotenessArea,numberOfBeds
-1174D2010,Auburn,Western Sydney,18 Hargrave Rd,Auburn 2144,Major Cities,124.2
-1181H2010,Ballina,Northern NSW,78 Cherry St,Ballina 2478,Inner Regional,71.3
-1170A2010,Balmain,Sydney,29 Booth St,Balmain 2041,Major Cities,63.6
-1186M2020,Balranald (MPS),Far West,41 Court St,Balranald 2715,Outer Regional,23.9
-1171D2270,Bankstown/ Lidcombe,South Western Sydney,68 Eldridge Rd,Bankstown 2200,Major Cities,388.3
-1185K2070,Baradine (MPS),Western NSW,5 Darling St,Baradine 2396,Remote,18
-1184M2030,Barham Koondrook,Murrumbidgee,70 Punt Rd,Barham 2732,Outer Regional,6
-1180J2020,Barraba (MPS),Hunter New England,1 Edward St,Barraba 2347,Outer Regional,22
-1183N2010,Batemans Bay,Southern NSW,7 Pacific St,Batemans Bay 2536,Inner Regional,35
-1185L2010,Bathurst,Western NSW,361 Howick St,Bathurst 2795,Inner Regional,112.8
-1184R2020,Batlow/Adelong (MPS),Murrumbidgee,61 Pioneer St,Batlow 2730,Outer Regional,24
-1183N2020,Bega,Southern NSW,1 McKee Dr,Bega 2550,Outer Regional,90
-1182H2030,Bellinger River,Mid North Coast,43 Church St,Bellingen 2454,Outer Regional,39.2
-1180Q2140,Belmont,Hunter New England,16 Croudace Bay Rd,Belmont 2280,Major Cities,117.9
-1184M2040,Berrigan (MPS),Murrumbidgee,137 Memorial Place,Berrigan 2712,Outer Regional,14
-1180J2030,Bingara (MPS),Hunter New England,1 Keera St,Bingara 2404,Outer Regional,20.8
-1174D2030,Blacktown,Western Sydney,44 Blacktown Rd,Blacktown 2148,Major Cities,415.1
-1185L2020,Blayney (MPS),Western NSW,3 Osman St,Blayney 2799,Inner Regional,25.2
-1175D2040,Blue Mountains,Nepean Blue Mountains,Lot 3 Woodlands Rd,Katoomba 2780,Major Cities,91.1
-1180J2040,Boggabri (MPS),Hunter New England,3 Wee Waa St,Boggabri 2382,Outer Regional,20
-1183N2030,Bombala (MPS),Southern NSW,126 Wellington St,Bombala 2632,Outer Regional,18
-1181H2070,Bonalbo,Northern NSW,1 Hospital Rd,Bonalbo 2469,Outer Regional,0
-1184N2040,Boorowa (MPS),Murrumbidgee,62 Dry St,Boorowa 2586,Inner Regional,18
-1185K2010,Bourke (MPS),Western NSW,26 Tarcoon St,Bourke 2840,Very remote,32.1
-1183N2160,Bourke Street Health Service,Southern NSW,234 Bourke St,Goulburn 2580,Inner Regional,42.6
-1171N2190,Bowral,South Western Sydney,Lot 3 Mona Rd,Bowral 2576,Inner Regional,71
-1171D2280,Braeside,South Western Sydney,340 Prairie Vale Rd,Prairiewood 2176,Major Cities,71
-1183N2050,Braidwood (MPS),Southern NSW,77 Monkittee St,Braidwood 2622,Inner Regional,30.6
-1185K2020,Brewarrina (MPS),Western NSW,56 Doyle St,Brewarrina 2839,Very remote,20
-1186S2010,Broken Hill,Far West,176 Thomas St,Broken Hill 2880,Outer Regional,121.2
-1180J2230,Bulahdelah - Myall Lakes,Hunter New England,1 Richmond St,Bulahdelah 2423,Inner Regional,0
-1173P2020,Bulli,Illawarra Shoalhaven,33A Hospital Rd,Bulli 2516,Major Cities,52.7
-1163G8080,Byron Central Hospital,Northern NSW,54 Ewingsdale Rd,Byron Bay 2481,Inner Regional,33.2
-1172C2020,Calvary,South Eastern Sydney,91 Rocky Point Rd,Kogarah 2217,Major Cities,109
-1180Q2110,Calvary Mater Newcastle,Hunter New England,4 Edith St,Waratah 2298,Major Cities,186.2
-1171D2050,Camden,South Western Sydney,65 Menangle Rd,Camden 2570,Major Cities,56.6
-1181H2050,Campbell Coraki,Northern NSW,1 Spring St,Coraki 2471,Inner Regional,0
-1171D2150,Campbelltown,South Western Sydney,1 Therry Rd,Campbelltown 2560,Major Cities,411.3
-1185L2030,Canowindra,Western NSW,1 Browns Ave,Canowindra 2804,Inner Regional,10.2
-1170A2020,Canterbury,Sydney,575 Canterbury Rd,Campsie 2194,Major Cities,169.7
-1181H2060,Casino,Northern NSW,1 Hotham St,Casino 2470,Inner Regional,26
-1180Q2020,Cessnock,Hunter New England,Lot 1 View St,Cessnock 2325,Inner Regional,48.5
-1163A2070,Children's Hospital Westmead,Sydney Children's Hospitals Network,178 Hawkesbury Rd,Westmead 2145,Major Cities,278.6
-1185K2030,Cobar,Western NSW,1 Lerida Rd,Cobar 2835,Remote,10
-1182H2080,Coffs Harbour,Mid North Coast,345 Pacific Hwy,Coffs Harbour 2450,Inner Regional,268.9
-1173P2030,Coledale,Illawarra Shoalhaven,636 Lawrence Hargrave Dr,Coledale 2515,Major Cities,38
-1185K2040,Collarenebri (MPS),Western NSW,1 Walgett St,Collarenebri 2833,Remote,13
-1170A2370,Concord,Sydney,1a Hospital Rd,Concord West 2139,Major Cities,678.7
-1185L2050,Condobolin,Western NSW,1 Madline St,Condobolin 2877,Outer Regional,22
-1185K2050,Coolah (MPS),Western NSW,111 Martin St,Coolah 2843,Outer Regional,26.9
-1184R2100,Coolamon (MPS),Murrumbidgee,1 Buchanan Dr,Coolamon 2701,Inner Regional,14.1
-1183N2060,Cooma HS,Southern NSW,1 Bent St,Cooma 2630,Inner Regional,35.7
-1185K2060,Coonabarabran,Western NSW,101 Edwards St,Coonabarabran 2357,Outer Regional,16.6
-1185K2090,Coonamble (MPS),Western NSW,150 Castlereagh St,Coonamble 2829,Remote,22.9
-1184R2210,Cootamundra,Murrumbidgee,120 MacKay St,Cootamundra 2590,Inner Regional,24.5
-1476B2410,Coral Tree Family Centre,Northern Sydney,Pacific Hwy,North Ryde 2113,Major Cities,10.1
-1184M2060,Corowa (MPS),Murrumbidgee,53 Guy St,Corowa 2646,Inner Regional,50.5
-1185L2060,Cowra,Western NSW,64 Liverpool St,Cowra 2794,Inner Regional,37.6
-1183N2070,Crookwell,Southern NSW,17 Kialla Rd,Crookwell 2583,Inner Regional,18
-1184M2050,Culcairn (MPS),Murrumbidgee,51 Balfour St,Culcairn 2660,Inner Regional,27
-1474D1020,Cumberland,Western Sydney,1 Hainsworth St,Westmead 2145,Major Cities,310
-1173P2910,David Berry,Illawarra Shoalhaven,85 Tannery Rd,Berry 2535,Inner Regional,26
-1183N2080,Delegate (MPS),Southern NSW,15 Craigie St,Delegate 2633,Outer Regional,13.1
-1184M2070,Deniliquin,Murrumbidgee,411 Charlotte St,Deniliquin 2710,Inner Regional,35.1
-1180Q2100,Denman (MPS),Hunter New England,51 Ogilvie St,Denman 2328,Inner Regional,17
-1182H2090,Dorrigo (MPS),Mid North Coast,14 Beech St,Dorrigo 2453,Outer Regional,26.9
-1185K2110,Dubbo,Western NSW,1 Myall St,Dubbo 2830,Inner Regional,160.5
-1185K2120,Dunedoo (MPS),Western NSW,70 Digilah St,Dunedoo 2844,Outer Regional,29.9
-1180Q2030,Dungog,Hunter New England,58 Hospital Rd,Dungog 2420,Inner Regional,15
-1185L2080,Eugowra (MPS),Western NSW,1 Cooper St,Eugowra 2806,Outer Regional,14
-1171D2060,Fairfield,South Western Sydney,360 Prairie Vale Rd,Prairiewood 2176,Major Cities,199.9
-1184M2080,Finley,Murrumbidgee,24 Dawe Ave,Finley 2713,Inner Regional,15.6
-1185L2090,Forbes,Western NSW,Lot 1 Elgin St,Forbes 2871,Outer Regional,29.2
-1185K2130,Gilgandra (MPS),Western NSW,6 Chelmsford Ave,Gilgandra 2827,Outer Regional,31
-1180J2050,Glen Innes,Hunter New England,94 Taylor St,Glen Innes 2370,Outer Regional,31.3
-1180J2240,Gloucester,Hunter New England,166 Church St,Gloucester 2422,Inner Regional,81
-1185K2140,Goodooga,Western NSW,49 Hammond St,Goodooga 2831,Very remote,0
-1177B2020,Gosford,Central Coast,76 Holden St,Gosford 2250,Major Cities,482
-1183N2090,Goulburn,Southern NSW,130 Goldsmith St,Goulburn 2580,Inner Regional,134.8
-1172C2050,Gower Wilson (MPS),South Eastern Sydney,1 Lagoon Rd,Lord Howe Island 2898,Very remote,0
-1181H2100,Grafton,Northern NSW,174 Arthur St,Grafton 2460,Inner Regional,95.3
-1176B2080,Greenwich,Northern Sydney,97 River Rd,Greenwich 2065,Major Cities,38.4
-1185L2100,Grenfell (MPS),Western NSW,80 Cowra Rd,Grenfell 2810,Outer Regional,42.8
-1184R2050,Griffith,Murrumbidgee,1 Noorebar Ave,Griffith 2680,Outer Regional,89.6
-1185K2100,Gulargambone (MPS),Western NSW,47 Bourbah St,Gulargambone 2828,Outer Regional,12
-1185K2150,Gulgong (MPS),Western NSW,112 Mayne St,Gulgong 2852,Outer Regional,0
-1184R2060,Gundagai (MPS),Murrumbidgee,50 Tor St,Gundagai 2722,Inner Regional,30
-1180J2060,Gunnedah,Hunter New England,2 Marquis St,Gunnedah 2380,Outer Regional,35.5
-1180J2070,Guyra (MPS),Hunter New England,44 Sole St,Guyra 2365,Outer Regional,22
-1175D2290,Hawkesbury,Nepean Blue Mountains,Cnr Macquarie and Day St,Windsor 2756,Major Cities,96.8
-1184R2070,Hay,Murrumbidgee,351 Murray St,Hay 2711,Outer Regional,28
-1184M2090,Henty (MPS),Murrumbidgee,7 Keighran St,Henty 2658,Inner Regional,15
-1184R2080,Hillston (MPS),Murrumbidgee,48C Burns St,Hillston 2675,Remote,5
-1184M2100,Holbrook (MPS),Murrumbidgee,1 Bowler St,Holbrook 2644,Inner Regional,24.6
-1176B2100,Hornsby and Ku-Ring-Gai,Northern Sydney,36 Palmerston Rd,Hornsby 2077,Major Cities,273.3
-1480Q1020,Hunter New England Mater Mental Health S,Hunter New England,72 Watt St,Newcastle 2300,Major Cities,119.5
-1173P2170,Illawarra Mental Health Services,Illawarra Shoalhaven,15 Madigan BVD,Shellharbour Square 2529,Major Cities,0
-1180J2080,Inverell,Hunter New England,41 Swanbrook Rd,Inverell 2360,Outer Regional,43.6
-1186S2020,Ivanhoe,Far West,1 Columbus St,Ivanhoe 2878,Very remote,0
-1184M2110,Jerilderie (MPS),Murrumbidgee,33 Southey St,Jerilderie 2716,Outer Regional,15
-1180Q2300,John Hunter,Hunter New England,83 Lookout Rd,New Lambton Heights 2305,Major Cities,820.7
-1184R2090,Junee (MPS),Murrumbidgee,67 Broadway St,Junee 2663,Inner Regional,37
-1117C1010,Justice Health,Justice Health & Forensic Mental Health,Anzac Pde,Malabar 2036,Major Cities,345.9
-1171C2030,Karitane Mothercraft Society,South Western Sydney,53 Mitchell St,Carramar 2163,Major Cities,18.6
-1483N1010,Kenmore,Southern NSW,Taralga Rd,Goulburn 2580,Inner Regional,28.9
-1173P2040,Kiama,Illawarra Shoalhaven,1 Bonaira St,Kiama 2533,Inner Regional,17.9
-1180Q2050,Kurri Kurri,Hunter New England,432 Lang St,Kurri Kurri 2327,Major Cities,50.9
-1181H2130,Kyogle (MPS),Northern NSW,199 Sumerland Way,Kyogle 2474,Inner Regional,40
-1184L2120,Lake Cargelligo (MPS),Murrumbidgee,1 Uabba St,Lake Cargelligo 2672,Remote,21.9
-1184R2110,Leeton,Murrumbidgee,1 Wade Ave,Leeton 2705,Outer Regional,63
-1185K2310,Lightning Ridge (MPS),Western NSW,Lot 25 Pandora St,Lightning Ridge 2834,Remote,24
-1181H2140,Lismore,Northern NSW,60 Uralba St,Lismore 2480,Inner Regional,251.5
-1175L2130,Lithgow,Nepean Blue Mountains,2 Col Drewe Dr,Lithgow 2790,Inner Regional,89.5
-1171D2090,Liverpool,South Western Sydney,Lot 2 Elizabeth St,Liverpool 2170,Major Cities,791.1
-1184R2130,Lockhart (MPS),Murrumbidgee,53 Hebden St,Lockhart 2656,Outer Regional,5.1
-1177B2040,Long Jetty,Central Coast,Wyong Rd,Long Jetty 2261,Major Cities,20.3
-1185K7510,Lourdes Dubbo,Western NSW,110 Cobbora Rd,Dubbo 2830,Inner Regional,28.8
-1182H2160,Macksville,Mid North Coast,14 Boundary St,Macksville 2447,Outer Regional,44.2
-1181H2170,Maclean,Northern NSW,21 Union St,Maclean 2463,Inner Regional,39.2
-1182H2120,Macleay Valley - Kempsey,Mid North Coast,119 River St,Kempsey 2440,Inner Regional,74.2
-1476B1010,Macquarie,Northern Sydney,1 Wicks Rd,North Ryde 2113,Major Cities,193.8
-1180Q2060,Maitland,Hunter New England,550 High St,Maitland 2320,Major Cities,174.9
-1180J2110,Manilla (MPS),Hunter New England,143 Court St,Manilla 2346,Outer Regional,52
-1176B2120,Manly,Northern Sydney,150 Darley Rd,Manly 2095,Major Cities,138.2
-1180J2250,Manning,Hunter New England,26 York St,Taree 2430,Inner Regional,185.5
-1186K1010,Menindee Health Service,Far West,Perry St,Menindee 2879,Very remote,0
-1184M2120,Mercy Care Centre Albury,Murrumbidgee,550 Poole St,Albury 2640,Inner Regional,30
-1184N2100,Mercy Care Centre Young,Murrumbidgee,69 Demondrille St,Young 2594,Inner Regional,26
-1180Q2080,Merriwa (MPS),Hunter New England,1 Mackenzie St,Merriwa 2329,Outer Regional,22.8
-1173P2050,Milton and Ulladulla,Illawarra Shoalhaven,104 Princes Hwy,Milton 2538,Inner Regional,25.8
-1185L2140,Molong,Western NSW,130 King St,Molong 2866,Inner Regional,10.5
-1176B2140,Mona Vale,Northern Sydney,18 Coronation St,Mona Vale 2103,Major Cities,167.6
-1180J2120,Moree,Hunter New England,35 Alice St,Moree 2400,Outer Regional,37.6
-1480Q1010,Morisset,Hunter New England,143 Dora St,Morisset 2264,Major Cities,128.6
-1183N2110,Moruya,Southern NSW,2 River St,Moruya 2537,Inner Regional,54.8
-1174D2180,Mount Druitt,Western Sydney,75 Railway St,Mount Druitt 2770,Major Cities,130.9
-1185K2160,Mudgee,Western NSW,139 Church St,Mudgee 2850,Inner Regional,29.5
-1181H2200,Mullumbimby,Northern NSW,1 Azalea St,Mullumbimby 2482,Inner Regional,0
-1184N2130,Murrumburrah - Harden (MPS),Murrumbidgee,54 Swift St,Harden 2587,Inner Regional,33
-1180Q2190,Murrurundi,Hunter New England,59 O'Connell St,Murrurundi 2338,Outer Regional,18
-1181H2210,Murwillumbah,Northern NSW,8 Ewing St,Murwillumbah 2484,Inner Regional,62.9
-1180Q2090,Muswellbrook,Hunter New England,36 Brentwood St,Muswellbrook 2333,Inner Regional,54.3
-1180J2130,Narrabri,Hunter New England,11 Cameron St,Narrabri 2390,Outer Regional,30
-1184R2150,Narrandera,Murrumbidgee,56 Adams St,Narrandera 2700,Outer Regional,20.1
-1185K2170,Narromine,Western NSW,128 Cathundral St,Narromine 2821,Outer Regional,24.8
-1175D2100,Nepean,Nepean Blue Mountains,256 Derby St,Kingswood 2747,Major Cities,591.2
-1176B2090,Neringah,Northern Sydney,4 Neringah Ave,Wahroonga South 2076,Major Cities,15
-1181H2150,Nimbin (MPS),Northern NSW,87 Cullen St,Nimbin 2480,Inner Regional,13.6
-1185K2180,Nyngan (MPS),Western NSW,15 Hoskins St,Nyngan 2825,Remote,42
-1185L2150,Oberon (MPS),Western NSW,67 North St,Oberon 2787,Inner Regional,18
-1185L2160,Orange Health Service,Western NSW,1502 Forest Rd,Orange 2800,Inner Regional,318.4
-1183N2140,Pambula,Southern NSW,1 Merimbola St,Pambula 2549,Outer Regional,29.8
-1185L2170,Parkes,Western NSW,18 Coleman Rd,Parkes 2870,Outer Regional,29.6
-1185L2180,Peak Hill,Western NSW,111 Newell Hwy,Peak Hill 2869,Outer Regional,4
-1173P2060,Port Kembla,Illawarra Shoalhaven,89 Cowper St,Warrawong 2502,Major Cities,57.3
-1182H2720,Port Macquarie,Mid North Coast,1 Wrights Rd,Port Macquarie 2444,Inner Regional,200.3
-1175L2200,Portland,Nepean Blue Mountains,20 Green St,Portland 2847,Inner Regional,26
-1180J2140,Prince Albert Tenterfield,Hunter New England,1 Naas St,Tenterfield 2372,Outer Regional,18
-1172C2080,Prince of Wales,South Eastern Sydney,147 Barker St,Randwick 2031,Major Cities,493.6
-1183N2150,Queanbeyan,Southern NSW,16 Erin St,Queanbeyan 2620,Major Cities,56.7
-1180J2150,Quirindi,Hunter New England,42 Nowland St,Quirindi 2343,Outer Regional,20
-1170A2390,RPAH Institute of Rheumatology & Orthopa,Sydney,57 Missenden Rd,Camperdown 2050,Major Cities,24.5
-1181H2670,Riverlands Drug and Alcohol Centre,Northern NSW,Cnr Uralba & Hunter St,Lismore 2480,Inner Regional,14
-1172C2200,Royal For Women,South Eastern Sydney,Barker St,Randwick 2031,Major Cities,121
-1176B2180,Royal North Shore,Northern Sydney,1 Reserve Rd,St Leonards 2065,Major Cities,721.3
-1170A2080,Royal Prince Alfred,Sydney,50 Missenden Rd,Camperdown 2050,Major Cities,762.3
-1176B2210,Royal Rehabilitation,Northern Sydney,227 Morrison Rd,Ryde 2112,Major Cities,48
-1176B2240,Ryde,Northern Sydney,1 Denistone Rd,Eastwood 2122,Major Cities,160.2
-1185L2210,Rylstone (MPS),Western NSW,24 Fitzgerald St,Rylstone 2849,Outer Regional,26
-1180Q2160,Scott Memorial Scone,Hunter New England,24 Stafford St,Scone 2337,Inner Regional,39.7
-1173P2110,Shellharbour,Illawarra Shoalhaven,15 Madigan BVD,Mount Warrigal 2528,Major Cities,179.8
-1173P2070,Shoalhaven Memorial,Illawarra Shoalhaven,2 Shoalhaven St,Nowra 2541,Inner Regional,178.3
-1180Q2170,Singleton,Hunter New England,Lot 20 Dangar Rd,Singleton 2330,Inner Regional,45.2
-1175D2140,Springwood,Nepean Blue Mountains,7 Huntley Grange Rd,Springwood 2777,Major Cities,30.6
-1172C2130,St George,South Eastern Sydney,28 Gray St,Kogarah 2217,Major Cities,610.6
-1169D2130,St Joseph's Auburn,St Vincent's Health Network,19a Alice St,Auburn 2144,Major Cities,71.7
-1169A2120,St Vincent's Darlinghurst,St Vincent's Health Network,390 Victoria St,Darlinghurst 2010,Major Cities,423.1
-1172C2140,Sutherland,South Eastern Sydney,430 Kingsway,Caringbah 2229,Major Cities,314.4
-1163C2380,Sydney Children's,Sydney Children's Hospitals Network,1 High St,Randwick 2031,Major Cities,145.8
-1172C1530,Sydney Dental,South Eastern Sydney,2 Chalmers St,Surry Hills 2010,Major Cities,0
-1172A2330,Sydney/ Sydney Eye,South Eastern Sydney,8 Macquarie St,Sydney 2000,Major Cities,60.9
-1180J2160,Tamworth,Hunter New England,31 Dean St,North Tamworth 2340,Inner Regional,279.2
-1184R2160,Temora,Murrumbidgee,119 Gloucester St,Temora 2666,Outer Regional,27.8
-1181H2230,The Tweed Hospital,Northern NSW,14 Powell St,Tweed Heads 2485,Major Cities,242
-1470A2360,Thomas Walker,Sydney,Hospital Rd,Concord Repatriation Hospital 2139,Major Cities,16.4
-1186S2030,Tibooburra,Far West,1 Sturt St,Tibooburra 2880,Very remote,0
-1180J2170,Tingha (MPS),Hunter New England,1 Inverell Rd,Tingha 2369,Outer Regional,9
-1184M2140,Tocumwal,Murrumbidgee,1 Adams St,Tocumwal 2714,Inner Regional,5.4
-1180Q2250,Tomaree Community,Hunter New England,2 Trevally St,Nelson Bay 2315,Inner Regional,10.8
-1185L2230,Tottenham (MPS),Western NSW,Lot 10 Moondana St,Tottenham 2873,Remote,10
-1185K2190,Trangie (MPS),Western NSW,28 Harris St,Trangie 2823,Outer Regional,19.9
-1170A2340,Tresillian Care Centres,Sydney,571 Canterbury Rd,Campsie 2194,Major Cities,70.6
-1185L2190,Trundle (MPS),Western NSW,44 Brookview St,Trundle 2875,Outer Regional,11
-1185L2240,Tullamore (MPS),Western NSW,1 Hinkler St,Tullamore 2874,Outer Regional,15.9
-1184M2150,Tumbarumba (MPS),Murrumbidgee,4 Mitchell St,Tumbarumba 2653,Outer Regional,42.7
-1184R2180,Tumut,Murrumbidgee,105 Simpson St,Tumut 2720,Inner Regional,28.6
-1184M2130,Urana (MPS),Murrumbidgee,127 Princess St,Urana 2645,Outer Regional,22
-1181H2240,Urbenville (MPS),Northern NSW,45 Beaury St,Urbenville 2475,Outer Regional,22
-1180J2180,Vegetable Creek (MPS),Hunter New England,13 Glen Innes Rd,Emmaville 2371,Outer Regional,17
-1184R2190,Wagga Wagga,Murrumbidgee,260 Edward St,Wagga Wagga 2650,Inner Regional,298.2
-1180J2190,Walcha (MPS),Hunter New England,7 South St,Walcha 2354,Outer Regional,24
-1185K2200,Walgett (MPS),Western NSW,141 Fox St,Walgett 2832,Remote,14.8
-1180J2200,Warialda (MPS),Hunter New England,146 Long St,Warialda 2402,Outer Regional,25
-1185K2210,Warren (MPS),Western NSW,176 Doctor Kater Dr,Warren 2824,Outer Regional,39.5
-1182H2250,Wauchope,Mid North Coast,69 High St,Wauchope 2446,Inner Regional,27.9
-1172C2060,Waverley War Memorial,South Eastern Sydney,125 Birrell St,Waverley 2024,Major Cities,35
-1180J2210,Wee Waa,Hunter New England,60 Alma St,Wee Waa 2388,Outer Regional,14.8
-1185K2220,Wellington,Western NSW,30 Thornton St,Wellington 2820,Outer Regional,17
-1186M2160,Wentworth,Far West,1 Silver City Hwy,Wentworth 2648,Outer Regional,15.7
-1175D2320,Wentworth Psychiatric Services,Nepean Blue Mountains,Nepean Hospital,Penrith 2750,Major Cities,11
-1180J2220,Werris Creek (MPS),Hunter New England,22 North St,Werris Creek 2341,Inner Regional,15.8
-1174D2240,Westmead,Western Sydney,166 Darcy Rd,Westmead 2145,Major Cities,835.9
-1186S2510,White Cliffs MPS,Far West,Johnston St,White Cliffs 2836,Very remote,0
-1186S2040,Wilcannia (MPS),Far West,14 Ross St,Wilcannia 2836,Very remote,8
-1180J2260,Wingham,Hunter New England,32 Bungay Rd,Wingham 2429,Inner Regional,32
-1173P2080,Wollongong,Illawarra Shoalhaven,348 Crown St,Wollongong 2500,Major Cities,486.3
-1177B2030,Woy Woy,Central Coast,7 Kathleen St,Woy Woy 2256,Major Cities,52.8
-1184L2260,Wyalong,Murrumbidgee,70 Ungarie Rd,West Wyalong 2671,Outer Regional,22
-1177B2060,Wyong,Central Coast,Pacific Hwy,Kanwal 2259,Major Cities,331.9
-1183N2170,Yass,Southern NSW,145 Meehan St,Yass 2582,Inner Regional,10
-1184N2180,Young,Murrumbidgee,68 Allanan St,Young 2594,Inner Regional,27.6
+id,name,network,address1,address2,remotenessArea,numberOfBeds,public
+1174D2010,Auburn,Western Sydney,18 Hargrave Rd,Auburn 2144,Major Cities,124.2,true
+1181H2010,Ballina,Northern NSW,78 Cherry St,Ballina 2478,Inner Regional,71.3,true
+1170A2010,Balmain,Sydney,29 Booth St,Balmain 2041,Major Cities,63.6,true
+1186M2020,Balranald (MPS),Far West,41 Court St,Balranald 2715,Outer Regional,23.9,true
+1171D2270,Bankstown/ Lidcombe,South Western Sydney,68 Eldridge Rd,Bankstown 2200,Major Cities,388.3,true
+1185K2070,Baradine (MPS),Western NSW,5 Darling St,Baradine 2396,Remote,18,true
+1184M2030,Barham Koondrook,Murrumbidgee,70 Punt Rd,Barham 2732,Outer Regional,6,true
+1180J2020,Barraba (MPS),Hunter New England,1 Edward St,Barraba 2347,Outer Regional,22,true
+1183N2010,Batemans Bay,Southern NSW,7 Pacific St,Batemans Bay 2536,Inner Regional,35,true
+1185L2010,Bathurst,Western NSW,361 Howick St,Bathurst 2795,Inner Regional,112.8,true
+1184R2020,Batlow/Adelong (MPS),Murrumbidgee,61 Pioneer St,Batlow 2730,Outer Regional,24,true
+1183N2020,Bega,Southern NSW,1 McKee Dr,Bega 2550,Outer Regional,90,true
+1182H2030,Bellinger River,Mid North Coast,43 Church St,Bellingen 2454,Outer Regional,39.2,true
+1180Q2140,Belmont,Hunter New England,16 Croudace Bay Rd,Belmont 2280,Major Cities,117.9,true
+1184M2040,Berrigan (MPS),Murrumbidgee,137 Memorial Place,Berrigan 2712,Outer Regional,14,true
+1180J2030,Bingara (MPS),Hunter New England,1 Keera St,Bingara 2404,Outer Regional,20.8,true
+1174D2030,Blacktown,Western Sydney,44 Blacktown Rd,Blacktown 2148,Major Cities,415.1,true
+1185L2020,Blayney (MPS),Western NSW,3 Osman St,Blayney 2799,Inner Regional,25.2,true
+1175D2040,Blue Mountains,Nepean Blue Mountains,Lot 3 Woodlands Rd,Katoomba 2780,Major Cities,91.1,true
+1180J2040,Boggabri (MPS),Hunter New England,3 Wee Waa St,Boggabri 2382,Outer Regional,20,true
+1183N2030,Bombala (MPS),Southern NSW,126 Wellington St,Bombala 2632,Outer Regional,18,true
+1181H2070,Bonalbo,Northern NSW,1 Hospital Rd,Bonalbo 2469,Outer Regional,0,true
+1184N2040,Boorowa (MPS),Murrumbidgee,62 Dry St,Boorowa 2586,Inner Regional,18,true
+1185K2010,Bourke (MPS),Western NSW,26 Tarcoon St,Bourke 2840,Very remote,32.1,true
+1183N2160,Bourke Street Health Service,Southern NSW,234 Bourke St,Goulburn 2580,Inner Regional,42.6,true
+1171N2190,Bowral,South Western Sydney,Lot 3 Mona Rd,Bowral 2576,Inner Regional,71,true
+1171D2280,Braeside,South Western Sydney,340 Prairie Vale Rd,Prairiewood 2176,Major Cities,71,true
+1183N2050,Braidwood (MPS),Southern NSW,77 Monkittee St,Braidwood 2622,Inner Regional,30.6,true
+1185K2020,Brewarrina (MPS),Western NSW,56 Doyle St,Brewarrina 2839,Very remote,20,true
+1186S2010,Broken Hill,Far West,176 Thomas St,Broken Hill 2880,Outer Regional,121.2,true
+1180J2230,Bulahdelah - Myall Lakes,Hunter New England,1 Richmond St,Bulahdelah 2423,Inner Regional,0,true
+1173P2020,Bulli,Illawarra Shoalhaven,33A Hospital Rd,Bulli 2516,Major Cities,52.7,true
+1163G8080,Byron Central Hospital,Northern NSW,54 Ewingsdale Rd,Byron Bay 2481,Inner Regional,33.2,true
+1172C2020,Calvary,South Eastern Sydney,91 Rocky Point Rd,Kogarah 2217,Major Cities,109,true
+1180Q2110,Calvary Mater Newcastle,Hunter New England,4 Edith St,Waratah 2298,Major Cities,186.2,true
+1171D2050,Camden,South Western Sydney,65 Menangle Rd,Camden 2570,Major Cities,56.6,true
+1181H2050,Campbell Coraki,Northern NSW,1 Spring St,Coraki 2471,Inner Regional,0,true
+1171D2150,Campbelltown,South Western Sydney,1 Therry Rd,Campbelltown 2560,Major Cities,411.3,true
+1185L2030,Canowindra,Western NSW,1 Browns Ave,Canowindra 2804,Inner Regional,10.2,true
+1170A2020,Canterbury,Sydney,575 Canterbury Rd,Campsie 2194,Major Cities,169.7,true
+1181H2060,Casino,Northern NSW,1 Hotham St,Casino 2470,Inner Regional,26,true
+1180Q2020,Cessnock,Hunter New England,Lot 1 View St,Cessnock 2325,Inner Regional,48.5,true
+1163A2070,Children's Hospital Westmead,Sydney Children's Hospitals Network,178 Hawkesbury Rd,Westmead 2145,Major Cities,278.6,true
+1185K2030,Cobar,Western NSW,1 Lerida Rd,Cobar 2835,Remote,10,true
+1182H2080,Coffs Harbour,Mid North Coast,345 Pacific Hwy,Coffs Harbour 2450,Inner Regional,268.9,true
+1173P2030,Coledale,Illawarra Shoalhaven,636 Lawrence Hargrave Dr,Coledale 2515,Major Cities,38,true
+1185K2040,Collarenebri (MPS),Western NSW,1 Walgett St,Collarenebri 2833,Remote,13,true
+1170A2370,Concord,Sydney,1a Hospital Rd,Concord West 2139,Major Cities,678.7,true
+1185L2050,Condobolin,Western NSW,1 Madline St,Condobolin 2877,Outer Regional,22,true
+1185K2050,Coolah (MPS),Western NSW,111 Martin St,Coolah 2843,Outer Regional,26.9,true
+1184R2100,Coolamon (MPS),Murrumbidgee,1 Buchanan Dr,Coolamon 2701,Inner Regional,14.1,true
+1183N2060,Cooma HS,Southern NSW,1 Bent St,Cooma 2630,Inner Regional,35.7,true
+1185K2060,Coonabarabran,Western NSW,101 Edwards St,Coonabarabran 2357,Outer Regional,16.6,true
+1185K2090,Coonamble (MPS),Western NSW,150 Castlereagh St,Coonamble 2829,Remote,22.9,true
+1184R2210,Cootamundra,Murrumbidgee,120 MacKay St,Cootamundra 2590,Inner Regional,24.5,true
+1476B2410,Coral Tree Family Centre,Northern Sydney,Pacific Hwy,North Ryde 2113,Major Cities,10.1,true
+1184M2060,Corowa (MPS),Murrumbidgee,53 Guy St,Corowa 2646,Inner Regional,50.5,true
+1185L2060,Cowra,Western NSW,64 Liverpool St,Cowra 2794,Inner Regional,37.6,true
+1183N2070,Crookwell,Southern NSW,17 Kialla Rd,Crookwell 2583,Inner Regional,18,true
+1184M2050,Culcairn (MPS),Murrumbidgee,51 Balfour St,Culcairn 2660,Inner Regional,27,true
+1474D1020,Cumberland,Western Sydney,1 Hainsworth St,Westmead 2145,Major Cities,310,true
+1173P2910,David Berry,Illawarra Shoalhaven,85 Tannery Rd,Berry 2535,Inner Regional,26,true
+1183N2080,Delegate (MPS),Southern NSW,15 Craigie St,Delegate 2633,Outer Regional,13.1,true
+1184M2070,Deniliquin,Murrumbidgee,411 Charlotte St,Deniliquin 2710,Inner Regional,35.1,true
+1180Q2100,Denman (MPS),Hunter New England,51 Ogilvie St,Denman 2328,Inner Regional,17,true
+1182H2090,Dorrigo (MPS),Mid North Coast,14 Beech St,Dorrigo 2453,Outer Regional,26.9,true
+1185K2110,Dubbo,Western NSW,1 Myall St,Dubbo 2830,Inner Regional,160.5,true
+1185K2120,Dunedoo (MPS),Western NSW,70 Digilah St,Dunedoo 2844,Outer Regional,29.9,true
+1180Q2030,Dungog,Hunter New England,58 Hospital Rd,Dungog 2420,Inner Regional,15,true
+1185L2080,Eugowra (MPS),Western NSW,1 Cooper St,Eugowra 2806,Outer Regional,14,true
+1171D2060,Fairfield,South Western Sydney,360 Prairie Vale Rd,Prairiewood 2176,Major Cities,199.9,true
+1184M2080,Finley,Murrumbidgee,24 Dawe Ave,Finley 2713,Inner Regional,15.6,true
+1185L2090,Forbes,Western NSW,Lot 1 Elgin St,Forbes 2871,Outer Regional,29.2,true
+1185K2130,Gilgandra (MPS),Western NSW,6 Chelmsford Ave,Gilgandra 2827,Outer Regional,31,true
+1180J2050,Glen Innes,Hunter New England,94 Taylor St,Glen Innes 2370,Outer Regional,31.3,true
+1180J2240,Gloucester,Hunter New England,166 Church St,Gloucester 2422,Inner Regional,81,true
+1185K2140,Goodooga,Western NSW,49 Hammond St,Goodooga 2831,Very remote,0,true
+1177B2020,Gosford,Central Coast,76 Holden St,Gosford 2250,Major Cities,482,true
+1183N2090,Goulburn,Southern NSW,130 Goldsmith St,Goulburn 2580,Inner Regional,134.8,true
+1172C2050,Gower Wilson (MPS),South Eastern Sydney,1 Lagoon Rd,Lord Howe Island 2898,Very remote,0,true
+1181H2100,Grafton,Northern NSW,174 Arthur St,Grafton 2460,Inner Regional,95.3,true
+1176B2080,Greenwich,Northern Sydney,97 River Rd,Greenwich 2065,Major Cities,38.4,true
+1185L2100,Grenfell (MPS),Western NSW,80 Cowra Rd,Grenfell 2810,Outer Regional,42.8,true
+1184R2050,Griffith,Murrumbidgee,1 Noorebar Ave,Griffith 2680,Outer Regional,89.6,true
+1185K2100,Gulargambone (MPS),Western NSW,47 Bourbah St,Gulargambone 2828,Outer Regional,12,true
+1185K2150,Gulgong (MPS),Western NSW,112 Mayne St,Gulgong 2852,Outer Regional,0,true
+1184R2060,Gundagai (MPS),Murrumbidgee,50 Tor St,Gundagai 2722,Inner Regional,30,true
+1180J2060,Gunnedah,Hunter New England,2 Marquis St,Gunnedah 2380,Outer Regional,35.5,true
+1180J2070,Guyra (MPS),Hunter New England,44 Sole St,Guyra 2365,Outer Regional,22,true
+1175D2290,Hawkesbury,Nepean Blue Mountains,Cnr Macquarie and Day St,Windsor 2756,Major Cities,96.8,true
+1184R2070,Hay,Murrumbidgee,351 Murray St,Hay 2711,Outer Regional,28,true
+1184M2090,Henty (MPS),Murrumbidgee,7 Keighran St,Henty 2658,Inner Regional,15,true
+1184R2080,Hillston (MPS),Murrumbidgee,48C Burns St,Hillston 2675,Remote,5,true
+1184M2100,Holbrook (MPS),Murrumbidgee,1 Bowler St,Holbrook 2644,Inner Regional,24.6,true
+1176B2100,Hornsby and Ku-Ring-Gai,Northern Sydney,36 Palmerston Rd,Hornsby 2077,Major Cities,273.3,true
+1480Q1020,Hunter New England Mater Mental Health S,Hunter New England,72 Watt St,Newcastle 2300,Major Cities,119.5,true
+1173P2170,Illawarra Mental Health Services,Illawarra Shoalhaven,15 Madigan BVD,Shellharbour Square 2529,Major Cities,0,true
+1180J2080,Inverell,Hunter New England,41 Swanbrook Rd,Inverell 2360,Outer Regional,43.6,true
+1186S2020,Ivanhoe,Far West,1 Columbus St,Ivanhoe 2878,Very remote,0,true
+1184M2110,Jerilderie (MPS),Murrumbidgee,33 Southey St,Jerilderie 2716,Outer Regional,15,true
+1180Q2300,John Hunter,Hunter New England,83 Lookout Rd,New Lambton Heights 2305,Major Cities,820.7,true
+1184R2090,Junee (MPS),Murrumbidgee,67 Broadway St,Junee 2663,Inner Regional,37,true
+1117C1010,Justice Health,Justice Health & Forensic Mental Health,Anzac Pde,Malabar 2036,Major Cities,345.9,true
+1171C2030,Karitane Mothercraft Society,South Western Sydney,53 Mitchell St,Carramar 2163,Major Cities,18.6,true
+1483N1010,Kenmore,Southern NSW,Taralga Rd,Goulburn 2580,Inner Regional,28.9,true
+1173P2040,Kiama,Illawarra Shoalhaven,1 Bonaira St,Kiama 2533,Inner Regional,17.9,true
+1180Q2050,Kurri Kurri,Hunter New England,432 Lang St,Kurri Kurri 2327,Major Cities,50.9,true
+1181H2130,Kyogle (MPS),Northern NSW,199 Sumerland Way,Kyogle 2474,Inner Regional,40,true
+1184L2120,Lake Cargelligo (MPS),Murrumbidgee,1 Uabba St,Lake Cargelligo 2672,Remote,21.9,true
+1184R2110,Leeton,Murrumbidgee,1 Wade Ave,Leeton 2705,Outer Regional,63,true
+1185K2310,Lightning Ridge (MPS),Western NSW,Lot 25 Pandora St,Lightning Ridge 2834,Remote,24,true
+1181H2140,Lismore,Northern NSW,60 Uralba St,Lismore 2480,Inner Regional,251.5,true
+1175L2130,Lithgow,Nepean Blue Mountains,2 Col Drewe Dr,Lithgow 2790,Inner Regional,89.5,true
+1171D2090,Liverpool,South Western Sydney,Lot 2 Elizabeth St,Liverpool 2170,Major Cities,791.1,true
+1184R2130,Lockhart (MPS),Murrumbidgee,53 Hebden St,Lockhart 2656,Outer Regional,5.1,true
+1177B2040,Long Jetty,Central Coast,Wyong Rd,Long Jetty 2261,Major Cities,20.3,true
+1185K7510,Lourdes Dubbo,Western NSW,110 Cobbora Rd,Dubbo 2830,Inner Regional,28.8,true
+1182H2160,Macksville,Mid North Coast,14 Boundary St,Macksville 2447,Outer Regional,44.2,true
+1181H2170,Maclean,Northern NSW,21 Union St,Maclean 2463,Inner Regional,39.2,true
+1182H2120,Macleay Valley - Kempsey,Mid North Coast,119 River St,Kempsey 2440,Inner Regional,74.2,true
+1476B1010,Macquarie,Northern Sydney,1 Wicks Rd,North Ryde 2113,Major Cities,193.8,true
+1180Q2060,Maitland,Hunter New England,550 High St,Maitland 2320,Major Cities,174.9,true
+1180J2110,Manilla (MPS),Hunter New England,143 Court St,Manilla 2346,Outer Regional,52,true
+1176B2120,Manly,Northern Sydney,150 Darley Rd,Manly 2095,Major Cities,138.2,true
+1180J2250,Manning,Hunter New England,26 York St,Taree 2430,Inner Regional,185.5,true
+1186K1010,Menindee Health Service,Far West,Perry St,Menindee 2879,Very remote,0,true
+1184M2120,Mercy Care Centre Albury,Murrumbidgee,550 Poole St,Albury 2640,Inner Regional,30,true
+1184N2100,Mercy Care Centre Young,Murrumbidgee,69 Demondrille St,Young 2594,Inner Regional,26,true
+1180Q2080,Merriwa (MPS),Hunter New England,1 Mackenzie St,Merriwa 2329,Outer Regional,22.8,true
+1173P2050,Milton and Ulladulla,Illawarra Shoalhaven,104 Princes Hwy,Milton 2538,Inner Regional,25.8,true
+1185L2140,Molong,Western NSW,130 King St,Molong 2866,Inner Regional,10.5,true
+1176B2140,Mona Vale,Northern Sydney,18 Coronation St,Mona Vale 2103,Major Cities,167.6,true
+1180J2120,Moree,Hunter New England,35 Alice St,Moree 2400,Outer Regional,37.6,true
+1480Q1010,Morisset,Hunter New England,143 Dora St,Morisset 2264,Major Cities,128.6,true
+1183N2110,Moruya,Southern NSW,2 River St,Moruya 2537,Inner Regional,54.8,true
+1174D2180,Mount Druitt,Western Sydney,75 Railway St,Mount Druitt 2770,Major Cities,130.9,true
+1185K2160,Mudgee,Western NSW,139 Church St,Mudgee 2850,Inner Regional,29.5,true
+1181H2200,Mullumbimby,Northern NSW,1 Azalea St,Mullumbimby 2482,Inner Regional,0,true
+1184N2130,Murrumburrah - Harden (MPS),Murrumbidgee,54 Swift St,Harden 2587,Inner Regional,33,true
+1180Q2190,Murrurundi,Hunter New England,59 O'Connell St,Murrurundi 2338,Outer Regional,18,true
+1181H2210,Murwillumbah,Northern NSW,8 Ewing St,Murwillumbah 2484,Inner Regional,62.9,true
+1180Q2090,Muswellbrook,Hunter New England,36 Brentwood St,Muswellbrook 2333,Inner Regional,54.3,true
+1180J2130,Narrabri,Hunter New England,11 Cameron St,Narrabri 2390,Outer Regional,30,true
+1184R2150,Narrandera,Murrumbidgee,56 Adams St,Narrandera 2700,Outer Regional,20.1,true
+1185K2170,Narromine,Western NSW,128 Cathundral St,Narromine 2821,Outer Regional,24.8,true
+1175D2100,Nepean,Nepean Blue Mountains,256 Derby St,Kingswood 2747,Major Cities,591.2,true
+1176B2090,Neringah,Northern Sydney,4 Neringah Ave,Wahroonga South 2076,Major Cities,15,true
+1181H2150,Nimbin (MPS),Northern NSW,87 Cullen St,Nimbin 2480,Inner Regional,13.6,true
+1185K2180,Nyngan (MPS),Western NSW,15 Hoskins St,Nyngan 2825,Remote,42,true
+1185L2150,Oberon (MPS),Western NSW,67 North St,Oberon 2787,Inner Regional,18,true
+1185L2160,Orange Health Service,Western NSW,1502 Forest Rd,Orange 2800,Inner Regional,318.4,true
+1183N2140,Pambula,Southern NSW,1 Merimbola St,Pambula 2549,Outer Regional,29.8,true
+1185L2170,Parkes,Western NSW,18 Coleman Rd,Parkes 2870,Outer Regional,29.6,true
+1185L2180,Peak Hill,Western NSW,111 Newell Hwy,Peak Hill 2869,Outer Regional,4,true
+1173P2060,Port Kembla,Illawarra Shoalhaven,89 Cowper St,Warrawong 2502,Major Cities,57.3,true
+1182H2720,Port Macquarie,Mid North Coast,1 Wrights Rd,Port Macquarie 2444,Inner Regional,200.3,true
+1175L2200,Portland,Nepean Blue Mountains,20 Green St,Portland 2847,Inner Regional,26,true
+1180J2140,Prince Albert Tenterfield,Hunter New England,1 Naas St,Tenterfield 2372,Outer Regional,18,true
+1172C2080,Prince of Wales,South Eastern Sydney,147 Barker St,Randwick 2031,Major Cities,493.6,true
+1183N2150,Queanbeyan,Southern NSW,16 Erin St,Queanbeyan 2620,Major Cities,56.7,true
+1180J2150,Quirindi,Hunter New England,42 Nowland St,Quirindi 2343,Outer Regional,20,true
+1170A2390,RPAH Institute of Rheumatology & Orthopa,Sydney,57 Missenden Rd,Camperdown 2050,Major Cities,24.5,true
+1181H2670,Riverlands Drug and Alcohol Centre,Northern NSW,Cnr Uralba & Hunter St,Lismore 2480,Inner Regional,14,true
+1172C2200,Royal For Women,South Eastern Sydney,Barker St,Randwick 2031,Major Cities,121,true
+1176B2180,Royal North Shore,Northern Sydney,1 Reserve Rd,St Leonards 2065,Major Cities,721.3,true
+1170A2080,Royal Prince Alfred,Sydney,50 Missenden Rd,Camperdown 2050,Major Cities,762.3,true
+1176B2210,Royal Rehabilitation,Northern Sydney,227 Morrison Rd,Ryde 2112,Major Cities,48,true
+1176B2240,Ryde,Northern Sydney,1 Denistone Rd,Eastwood 2122,Major Cities,160.2,true
+1185L2210,Rylstone (MPS),Western NSW,24 Fitzgerald St,Rylstone 2849,Outer Regional,26,true
+1180Q2160,Scott Memorial Scone,Hunter New England,24 Stafford St,Scone 2337,Inner Regional,39.7,true
+1173P2110,Shellharbour,Illawarra Shoalhaven,15 Madigan BVD,Mount Warrigal 2528,Major Cities,179.8,true
+1173P2070,Shoalhaven Memorial,Illawarra Shoalhaven,2 Shoalhaven St,Nowra 2541,Inner Regional,178.3,true
+1180Q2170,Singleton,Hunter New England,Lot 20 Dangar Rd,Singleton 2330,Inner Regional,45.2,true
+1175D2140,Springwood,Nepean Blue Mountains,7 Huntley Grange Rd,Springwood 2777,Major Cities,30.6,true
+1172C2130,St George,South Eastern Sydney,28 Gray St,Kogarah 2217,Major Cities,610.6,true
+1169D2130,St Joseph's Auburn,St Vincent's Health Network,19a Alice St,Auburn 2144,Major Cities,71.7,true
+1169A2120,St Vincent's Darlinghurst,St Vincent's Health Network,390 Victoria St,Darlinghurst 2010,Major Cities,423.1,true
+1172C2140,Sutherland,South Eastern Sydney,430 Kingsway,Caringbah 2229,Major Cities,314.4,true
+1163C2380,Sydney Children's,Sydney Children's Hospitals Network,1 High St,Randwick 2031,Major Cities,145.8,true
+1172C1530,Sydney Dental,South Eastern Sydney,2 Chalmers St,Surry Hills 2010,Major Cities,0,true
+1172A2330,Sydney/ Sydney Eye,South Eastern Sydney,8 Macquarie St,Sydney 2000,Major Cities,60.9,true
+1180J2160,Tamworth,Hunter New England,31 Dean St,North Tamworth 2340,Inner Regional,279.2,true
+1184R2160,Temora,Murrumbidgee,119 Gloucester St,Temora 2666,Outer Regional,27.8,true
+1181H2230,The Tweed Hospital,Northern NSW,14 Powell St,Tweed Heads 2485,Major Cities,242,true
+1470A2360,Thomas Walker,Sydney,Hospital Rd,Concord Repatriation Hospital 2139,Major Cities,16.4,true
+1186S2030,Tibooburra,Far West,1 Sturt St,Tibooburra 2880,Very remote,0,true
+1180J2170,Tingha (MPS),Hunter New England,1 Inverell Rd,Tingha 2369,Outer Regional,9,true
+1184M2140,Tocumwal,Murrumbidgee,1 Adams St,Tocumwal 2714,Inner Regional,5.4,true
+1180Q2250,Tomaree Community,Hunter New England,2 Trevally St,Nelson Bay 2315,Inner Regional,10.8,true
+1185L2230,Tottenham (MPS),Western NSW,Lot 10 Moondana St,Tottenham 2873,Remote,10,true
+1185K2190,Trangie (MPS),Western NSW,28 Harris St,Trangie 2823,Outer Regional,19.9,true
+1170A2340,Tresillian Care Centres,Sydney,571 Canterbury Rd,Campsie 2194,Major Cities,70.6,true
+1185L2190,Trundle (MPS),Western NSW,44 Brookview St,Trundle 2875,Outer Regional,11,true
+1185L2240,Tullamore (MPS),Western NSW,1 Hinkler St,Tullamore 2874,Outer Regional,15.9,true
+1184M2150,Tumbarumba (MPS),Murrumbidgee,4 Mitchell St,Tumbarumba 2653,Outer Regional,42.7,true
+1184R2180,Tumut,Murrumbidgee,105 Simpson St,Tumut 2720,Inner Regional,28.6,true
+1184M2130,Urana (MPS),Murrumbidgee,127 Princess St,Urana 2645,Outer Regional,22,true
+1181H2240,Urbenville (MPS),Northern NSW,45 Beaury St,Urbenville 2475,Outer Regional,22,true
+1180J2180,Vegetable Creek (MPS),Hunter New England,13 Glen Innes Rd,Emmaville 2371,Outer Regional,17,true
+1184R2190,Wagga Wagga,Murrumbidgee,260 Edward St,Wagga Wagga 2650,Inner Regional,298.2,true
+1180J2190,Walcha (MPS),Hunter New England,7 South St,Walcha 2354,Outer Regional,24,true
+1185K2200,Walgett (MPS),Western NSW,141 Fox St,Walgett 2832,Remote,14.8,true
+1180J2200,Warialda (MPS),Hunter New England,146 Long St,Warialda 2402,Outer Regional,25,true
+1185K2210,Warren (MPS),Western NSW,176 Doctor Kater Dr,Warren 2824,Outer Regional,39.5,true
+1182H2250,Wauchope,Mid North Coast,69 High St,Wauchope 2446,Inner Regional,27.9,true
+1172C2060,Waverley War Memorial,South Eastern Sydney,125 Birrell St,Waverley 2024,Major Cities,35,true
+1180J2210,Wee Waa,Hunter New England,60 Alma St,Wee Waa 2388,Outer Regional,14.8,true
+1185K2220,Wellington,Western NSW,30 Thornton St,Wellington 2820,Outer Regional,17,true
+1186M2160,Wentworth,Far West,1 Silver City Hwy,Wentworth 2648,Outer Regional,15.7,true
+1175D2320,Wentworth Psychiatric Services,Nepean Blue Mountains,Nepean Hospital,Penrith 2750,Major Cities,11,true
+1180J2220,Werris Creek (MPS),Hunter New England,22 North St,Werris Creek 2341,Inner Regional,15.8,true
+1174D2240,Westmead,Western Sydney,166 Darcy Rd,Westmead 2145,Major Cities,835.9,true
+1186S2510,White Cliffs MPS,Far West,Johnston St,White Cliffs 2836,Very remote,0,true
+1186S2040,Wilcannia (MPS),Far West,14 Ross St,Wilcannia 2836,Very remote,8,true
+1180J2260,Wingham,Hunter New England,32 Bungay Rd,Wingham 2429,Inner Regional,32,true
+1173P2080,Wollongong,Illawarra Shoalhaven,348 Crown St,Wollongong 2500,Major Cities,486.3,true
+1177B2030,Woy Woy,Central Coast,7 Kathleen St,Woy Woy 2256,Major Cities,52.8,true
+1184L2260,Wyalong,Murrumbidgee,70 Ungarie Rd,West Wyalong 2671,Outer Regional,22,true
+1177B2060,Wyong,Central Coast,Pacific Hwy,Kanwal 2259,Major Cities,331.9,true
+1183N2170,Yass,Southern NSW,145 Meehan St,Yass 2582,Inner Regional,10,true
+1184N2180,Young,Murrumbidgee,68 Allanan St,Young 2594,Inner Regional,27.6,true

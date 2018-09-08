@@ -19,7 +19,7 @@ const dataDir = __dirname + '/data';
 
 
 app.get('/lgaBounds', (req, res) => {
-  res.send(fs.readFileSync(dataDir + '/simpleLgaRegions.json'))
+  res.send(fs.readFileSync('./data/simpleLgaRegions.json'))
 });
 
 app.all('/*', (req, res) => {

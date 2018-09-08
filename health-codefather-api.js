@@ -1,8 +1,9 @@
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-const mockApiUtils = require('./mock-api-utils');
+const fs = require('fs');
 
+const mockApiUtils = require('./mock-api-utils');
 const app = express();
 // parse application/json
 app.use(bodyParser.json());
@@ -15,6 +16,11 @@ app.use(cors());
 const port = process.env.PORT || 3030;
 
 const dataDir = __dirname + '/data';
+
+
+app.get('/lgaBounds', (req, res) => {
+  res.send(fs.readFileSync(dataDir + '/simpleLgaRegions.json'))
+});
 
 app.all('/*', (req, res) => {
   switch (req.method) {

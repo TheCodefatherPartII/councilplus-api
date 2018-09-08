@@ -14,7 +14,7 @@ app.use(cors());
 // process.env.PORT lets the port be set by Heroku
 const port = process.env.PORT || 3030;
 
-const dataDir = __dirname + '/mock_data';
+const dataDir = __dirname + '/data';
 
 app.all('/*', (req, res) => {
   switch (req.method) {

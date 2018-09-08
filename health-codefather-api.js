@@ -52,7 +52,12 @@ const errorResponse = res => {
 };
 
 const handleGET = async (req, res, fallback = errorResponse) => {
-  const response = await mockApiUtils.loadResponseDataAsJSON(dataDir, req.url, req.query);
+  let response;
+  if (req.url.includes('contactDetails') || req.url.includes('simpleLgaRegions')) {
+    response = mockApiUtils.loadResponseData(dataDir, req.url, req.query);
+  } else {
+    response = await mockApiUtils.loadResponseDataAsJSON(dataDir, req.url, req.query);
+  }
   if (response) {
     console.log('✅  [GET]', req.url);
     res.setHeader('Content-Type', 'application/json');

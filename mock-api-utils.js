@@ -2,7 +2,7 @@ const fs = require('fs');
 const csv = require("csvtojson");
 
 const loadResponseDataAsJSON = async (dataDir, url, query = {}) => {
-  const fileName = getFileNameFromReq(url, query);
+  const fileName = getFileNameFromReq(url, query, 'csv');
   try {
     console.log('...🚀', `${dataDir}/${fileName}...`);
     return await
@@ -15,7 +15,7 @@ const loadResponseDataAsJSON = async (dataDir, url, query = {}) => {
 }
 
 const loadResponseData = (dataDir, url, query = {}) => {
-  const fileName = getFileNameFromReq(url, query);
+  const fileName = getFileNameFromReq(url, query, 'json');
   try {
     console.log('...🚀', `${fileName}...`);
     return fs.readFileSync(`${dataDir}/${fileName}`);
@@ -25,7 +25,7 @@ const loadResponseData = (dataDir, url, query = {}) => {
   }
 }
 
-const getFileNameFromReq = (url, query = {}) => {
+const getFileNameFromReq = (url, query = {}, ext) => {
   const baseUrl = url.indexOf('?') !== -1 ? url.substring(0, url.indexOf('?')) : url;
   const responseFileName = `${baseUrl.replace('/', '').replace(/\//g, '_')}.`;
 
@@ -36,7 +36,7 @@ const getFileNameFromReq = (url, query = {}) => {
     );
   }
 
-  const fileName = `${responseFileName}${filenameQueryFragment}csv`;
+  const fileName = `${responseFileName}${filenameQueryFragment}${ext}`;
   return fileName;
 }
 
